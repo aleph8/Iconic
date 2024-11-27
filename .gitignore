@@ -1,0 +1,10 @@
+.vs
+
+.venv
+__pycache__
+
+bin
+obj
+
+*.ico
+assembly.dll
